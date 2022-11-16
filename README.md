@@ -49,5 +49,3 @@ Users should be able to:
 # bankist
 
 Bankist is a Web App that allows users to manage their account by logging in.
-
-> > > > > > > 734f92b2e3274015c1d5e3f2dc8fc0c7ffbd364f
