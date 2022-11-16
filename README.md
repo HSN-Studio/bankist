@@ -26,7 +26,6 @@ Users should be able to:
 - Transfer to another account.
 - Get Loan
 - Terminate their account.
-- View the cart and remove items from it
 
 ### Links
 
