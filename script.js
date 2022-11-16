@@ -147,7 +147,6 @@ btnLogin.addEventListener('click', function (e) {
   currentAccount = accounts.find(
     acc => acc.username === inputLoginUsername.value
   );
-  console.log(currentAccount);
 
   if (currentAccount?.pin === Number(inputLoginPin.value)) {
     // Display UI and message
@@ -213,7 +212,6 @@ btnClose.addEventListener('click', function (e) {
     const index = accounts.findIndex(
       acc => acc.username === currentAccount.username
     );
-    console.log(index);
     // .indexOf(23)
 
     // Delete account
