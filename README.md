@@ -1,9 +1,10 @@
 <<<<<<< HEAD
-# Sneakers - E-commerce product page
+
+# Bankist - Web App to manage Bank Account!
 
 This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![Design preview for the E-commerce product page coding challenge](./public/desktop-preview.jpg)
+![Design preview for the E-commerce product page coding challenge](./Bankist-preview.png)
 
 ## Table of contents
 
@@ -62,8 +63,10 @@ This simple looking App has many functionalities that has to be developed. Howev
 
 - Website - [Hasni.co](https://www.hasni.co/)
 - Upwork - [@HassanR](https://www.upwork.com/freelancers/~01d9a777c26f1c5271)
-- Fiverr - [@HSN_Studio](https://www.fiverr.com/hsn_Studio)
-=======
+- # Fiverr - [@HSN_Studio](https://www.fiverr.com/hsn_Studio)
+
 # bankist
-Bankist is a Web App that allows users to manage their account by logging in. 
->>>>>>> 734f92b2e3274015c1d5e3f2dc8fc0c7ffbd364f
+
+Bankist is a Web App that allows users to manage their account by logging in.
+
+> > > > > > > 734f92b2e3274015c1d5e3f2dc8fc0c7ffbd364f
