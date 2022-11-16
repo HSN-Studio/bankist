@@ -44,7 +44,7 @@ Users should be able to:
 
 - Website - [Hasni.co](https://www.hasni.co/)
 - Upwork - [@HassanR](https://www.upwork.com/freelancers/~01d9a777c26f1c5271)
-- # Fiverr - [@HSN_Studio](https://www.fiverr.com/hsn_Studio)
+- Fiverr - [@HSN_Studio](https://www.fiverr.com/hsn_Studio)
 
 # bankist
 
